@@ -71,7 +71,7 @@ Ensure the following dependencies are installed:
 ## Viewing Reports
 
 - Post-test execution, navigate to the `Reports` directory.
--For comprehensive insights into test execution results, open the Extent Reports HTML file (FanCodeAPI.html), PDF file (FanCodeAPI.pdf), and JSON file (FanCodeAPI.json) in any web browser.
+- For comprehensive insights into test execution results, open the Extent Reports HTML file (FanCodeAPI.html), PDF file (FanCodeAPI.pdf), and JSON file (FanCodeAPI.json) in any web browser.
 
 ## Contributing
 

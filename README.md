@@ -77,10 +77,6 @@ Ensure the following dependencies are installed:
 
 Contributions are encouraged! Fork the repository and submit pull requests with suggested improvements and features.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - We extend thanks to the [Cucumber](https://cucumber.io/) and [Rest Assured](https://rest-assured.io/) communities for their invaluable tools and support.

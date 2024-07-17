@@ -1,6 +1,6 @@
 package stepDefinitions;
 
-import APIResources.APIResources;
+import com.fancode.APIResources.APIResources;
 import com.fancode.businessLogic.TodoResourceLogic;
 import com.fancode.utilities.APICalls;
 import io.cucumber.java.en.And;

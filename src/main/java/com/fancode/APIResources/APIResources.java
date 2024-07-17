@@ -1,4 +1,4 @@
-package APIResources;
+package com.fancode.APIResources;
 
 public enum APIResources {
     getTodos("/todos"),

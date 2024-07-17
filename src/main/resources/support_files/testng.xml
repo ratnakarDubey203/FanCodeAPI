@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="FanCode-API" verbose="1">
+    <test name="FanCode Test">
+        <classes>
+            <class name="test_runner.TestRunner">
+            </class>
+        </classes>
+    </test>
+</suite>

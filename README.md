@@ -25,8 +25,8 @@ Ensure the following dependencies are installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your/repository.git
-   cd repository
+   git clone https://github.com/ratnakarDubey203/FanCodeAPI.git
+   cd FanCodeAPI
    ```
 
 2. **Install dependencies:**
